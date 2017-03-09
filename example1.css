@@ -1,0 +1,38 @@
+h1{
+    color: blue ;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#description{
+    color: green;
+}
+
+.emphasis{
+    background-color: #ffffcc;
+    text-align: center;
+}
+
+#info{
+    border: 2px solid black;
+}
+
+p{
+    text-align: center;
+}
+
+body{
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/08/87/d4/0887d45e7bd3d3aaba12638863df8f48.jpg");
+    background-size: auto auto; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+div{
+    margin-left: 10em;
+}
+
+#hello{
+    background-color: #00cc66;
+    border: 5px dotted #ff6699;
+}
